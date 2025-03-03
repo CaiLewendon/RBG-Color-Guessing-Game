@@ -19,7 +19,7 @@ A fun and interactive RGB color guessing game built with **HTML, CSS, and JavaSc
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/CaiLewendon/RBG-Color-Guessing-Game.git
+git clone https://github.com/CaiLewendon/RGB-Color-Guessing-Game.git
 
 open in the project directory (do not move it)
 open index.html   # macOS
